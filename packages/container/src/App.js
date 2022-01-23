@@ -4,6 +4,7 @@ export default () => {
   return (
     <>
       <MarketingApp />
+      <hr />
       <h1>Hi there.</h1>
     </>
   );
