@@ -4,7 +4,7 @@ export default () => {
   return (
     <>
       <MarketingApp />
-      <h1>Hi there from App.js</h1>
+      <h1>Hi there.</h1>
     </>
   );
 };
